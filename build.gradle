@@ -315,3 +315,8 @@ def qualifyVersionIfNecessary(version) {
 	}
 	return version
 }
+
+dependencies {
+	compile 'junit:junit:4.12'
+	compile 'junit:junit:4.12'
+}
